@@ -18,7 +18,7 @@ The 2010 data consists of 1460 houses with prices. Each house has 79 features, w
 
 In the folder, there are train set and test set. The train set is where I train my model and the test set is what is submitted on kaggle. 
 
-The folder also contains the "data description" file since there are a lot of features with categories.
+The folder also contains the data_description.txt file which descibe the features and the categories within it.
 
 There is also a powerpoint in which I presents the project on the executive level.
 
